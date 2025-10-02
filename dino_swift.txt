@@ -1,4 +1,5 @@
-nama : Muhamad Aldino Fatkhurahman
-nim  : 25106050087
+nama     : Muhamad Aldino Fatkhurahman (DINO)
+kelompok : SWIFT
+nim      : 25106050087
 
 Figma adalah sebuah aplikasi desain berbasis web yang digunakan untuk membuat user interface(UI),prototipe aplikasi, dan desain website. Figma memungkikan banyak orang bekerja sama secara realtime, menyimpan hasil desain di cloud, serta memudahkan kolaborasi antara desainer dan developer.
